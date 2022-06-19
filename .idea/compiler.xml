@@ -9,5 +9,8 @@
         <module name="piano" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WorkSpace" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
